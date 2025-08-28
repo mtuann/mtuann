@@ -1,25 +1,37 @@
-# Tuan Nguyen (Vietnam)
+# Tuan Nguyen (Vietnam) 🇻🇳
 
-## 🔭 I currently specialize in
+## 🎓 About Me
 
-**Federated Learning** and its security implications, particularly focusing on:
+I am currently a **third-year Ph.D. student** (2023–present) in a **joint Ph.D. program between VinUniversity and the University of Illinois Urbana-Champaign (UIUC)**. I work at the **Security and Artificial Intelligence Lab (SAIL)** and the **VinUni-Illinois Smart Health Center (VISHC)**, co-advised by **[Prof. Kok-Seng Wong](https://scholar.google.com/citations?user=WQyULhIAAAAJ&hl=en)** and **[Prof. Khoa D. Doan](https://khoadoan.me/)**.
 
-- **Backdoor Attacks:**  Developing novel and powerful backdoor attacks to understand vulnerabilities in federated learning.
-- **Defense Mechanisms:** Researching and designing robust defenses against backdoor attacks in federated learning settings.
-- **Privacy-Preserving Federated Learning:** Exploring methods to enhance privacy in federated learning while maintaining model performance.
-- **Machine Unlearning:** Investigating techniques for removing individual data from federated learning models.
+I am also pursuing a **Master's degree in Computer Science** at **UIUC**, starting Fall 2025, under the supervision of [**Prof. Fan Lai**](https://www.fanlai.me/), with a research focus on **Efficient Machine Learning**, especially in **Multi-Agent Systems** and **Large Language Models (LLMs)**.
 
-## 📃 Academic Page
+## 🔬 Research Focus
 
-- You can find my research and publications on my [academic page](https://mtuann.github.io/).
-- If you're interested in collaborating or discussing my research, feel free to reach out via <a target="_blank" href="mailto:tuan.nm@vinuni.edu.vn">email</a>.
+My research focuses on **Trustworthy Machine Learning** and **Efficient ML Systems**, specializing in:
 
-## 📈 Statistics
+### **Federated Learning & Security**
+- **Backdoor Attacks & Defenses** in federated learning
+- **Privacy-Preserving FL** and **Machine Unlearning**
+
+### **Efficient Machine Learning**
+- **Multi-Agent Systems** and **Large Language Models (LLMs)**
+- **Distributed ML System Optimization**
+
+## 🌐 Research Resources
+
+- **[Shiny Research Papers App](https://mtuann.shinyapps.io/research-papers/):** Interactive platform for discovering and filtering research papers from IEEE Xplore, ACM, ScienceDirect, Springer, OpenReview, arXiv, DBLP, and Google Scholar
+
+## 📊 GitHub Statistics
+
 ![Tuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtuann&bg_color=30,e96443,904e95&include_all_commits=true&title_color=fff&text_color=fff)
 
-## 🚀 Projects
-- **[Shiny app for visualizing and finding research papers](https://mtuann.shinyapps.io/research-papers/) (R Shiny):** A Shiny app that enables users to search for and filter research papers sourced from platforms like IEEE Xplore, ACM, ScienceDirect, Springer, OpenReview, arXiv, DBLP, and Google Scholar.
+## 🤝 Collaboration & Contact
 
-## 🤝 Contributing
+I'm actively seeking collaborations in federated learning, machine learning security, and efficient ML systems! 
 
-I'm open to contributions and collaboration! If you're interested in exploring federated learning security, backdoor attacks, or other related topics, feel free to open an issue or a pull request.
+- **Email:** [tuan.nm@vinuni.edu.vn](mailto:tuan.nm@vinuni.edu.vn)
+- **Academic Page:** [https://mtuann.github.io/](https://mtuann.github.io/)
+- **Google Scholar:** [Tuan Nguyen](https://scholar.google.com/citations?user=_-nQHtcAAAAJ&hl=en)
+- **LinkedIn:** [Tuan Nguyen](https://www.linkedin.com/in/tuannm0312)
+- **GitHub:** [@mtuann](https://github.com/mtuann)
