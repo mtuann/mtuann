@@ -20,7 +20,7 @@ My research focuses on **Trustworthy Machine Learning** and **Efficient ML Syste
 
 ## 🌐 Research Resources
 
-- **[Shiny Research Papers App](https://mtuann.shinyapps.io/research-papers/):** Interactive platform for discovering and filtering research papers from IEEE Xplore, ACM, ScienceDirect, Springer, OpenReview, arXiv, DBLP, and Google Scholar
+- **[Research Papers App](https://mtuann.github.io/papers/):** Interactive platform for discovering and filtering research papers from IEEE Xplore, ACM, ScienceDirect, Springer, OpenReview, arXiv, DBLP, and Google Scholar
 
 ## 📊 GitHub Statistics
 
@@ -33,5 +33,5 @@ I'm actively seeking collaborations in federated learning, machine learning secu
 - **Email:** [tuan.nm@vinuni.edu.vn](mailto:tuan.nm@vinuni.edu.vn)
 - **Academic Page:** [https://mtuann.github.io/](https://mtuann.github.io/)
 - **Google Scholar:** [Tuan Nguyen](https://scholar.google.com/citations?user=_-nQHtcAAAAJ&hl=en)
-- **LinkedIn:** [Tuan Nguyen](https://www.linkedin.com/in/tuannm0312)
+- **LinkedIn:** [Tuan Nguyen](https://www.linkedin.com/in/mtuann)
 - **GitHub:** [@mtuann](https://github.com/mtuann)
