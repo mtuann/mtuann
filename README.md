@@ -1,55 +1,23 @@
 # Tuan Nguyen
 
-**M.S. Computer Science @ UIUC**
+M.S. Computer Science student at the University of Illinois Urbana-Champaign (graduating May 2027), working with [Prof. Fan Lai](https://www.fanlai.me/) on efficient machine learning systems: LLM and RAG serving, GPU performance, and federated learning.
 
-[Portfolio](https://mtuann.github.io/) ·
-[Google Scholar](https://scholar.google.com/citations?user=_-nQHtcAAAAJ&hl=en) ·
-[LinkedIn](https://www.linkedin.com/in/mtuann/) ·
-[Email](mailto:tuanmn2@illinois.edu)
+Before UIUC, I spent six years on ML research and engineering in Vietnam: clinical AI software for echocardiography at VNU University of Engineering and Technology, then federated learning at VinUniversity. I'm also a Ph.D. student in the VinUni–UIUC joint program, co-advised by Prof. Kok-Seng Wong and Prof. Khoa Doan.
 
-I am an M.S. Computer Science student at the University of Illinois Urbana-Champaign, graduating in May 2027. I build efficient machine-learning and software systems, with experience in RAG/LLM serving, CUDA optimization, federated learning, and medical-imaging software.
+[Website](https://mtuann.github.io/) · [CV](https://mtuann.github.io/assets/pdf/Tuan_Nguyen_CV.pdf) · [Google Scholar](https://scholar.google.com/citations?user=_-nQHtcAAAAJ) · [LinkedIn](https://www.linkedin.com/in/mtuann/) · [Email](mailto:tuanmn2@illinois.edu)
 
-## Current Focus
+### Selected publications
 
-- Efficient RAG and LLM serving
-- Context compression and system evaluation
-- CUDA and GPU performance optimization
-- Trustworthy and federated machine learning
-- Reliable software and data pipelines
+- [REVA: Reusable Evidence View Aggregation for Context-Efficient RAG Serving](https://arxiv.org/abs/2609.11209) — IEEE ICDM 2026 · [code](https://github.com/UIUC-MLSys/REVA)
+- [Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training](https://doi.org/10.1145/3589334.3645702) — WWW 2024 · [code](https://github.com/NNHieu/CoLR-FedRec)
+- [IBA: Towards Irreversible Backdoor Attacks in Federated Learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html) — NeurIPS 2023 · [code](https://github.com/sail-research/iba)
 
-## Engineering Highlight
+Full list on [Google Scholar](https://scholar.google.com/citations?user=_-nQHtcAAAAJ).
 
-### CUDA CNN Convolution Optimization
+### Projects
 
-- Accelerated batched CNN convolution by **5.6×**, reducing operation time from **86.33 ms to 15.42 ms**.
-- Used fused implicit GEMM, Tensor Cores, Nsight Systems, and Nsight Compute.
-- Preserved **87.14% model accuracy**.
-
-## Selected Publications
-
-- [FLAT: Revealing Hidden Latent-Conditioned Backdoor Failures in Federated Learning](https://arxiv.org/abs/2508.04064)
-- [Non-Cooperative Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2407.07917)
-- [IBA: Towards Irreversible Backdoor Attacks in Federated Learning](https://github.com/sail-research/iba) — NeurIPS 2023
-- [Efficient Communication and Secure Federated Recommendation via Low-rank Training](https://doi.org/10.1145/3589334.3645702) — WWW 2024
-
-## Selected Projects
-
-- [Federated-Learning Backdoor Attacks](https://github.com/mtuann/fedlearn-backdoor-attacks)
-- [IBA — NeurIPS 2023](https://github.com/sail-research/iba)
-- [Federated-Learning Research Collection](https://github.com/mtuann/federated-learning-updated-papers)
-- [LLM Research Collection](https://github.com/mtuann/llm-updated-papers)
-- [Competitive Programming 101](https://github.com/mtuann/competitive-programming-101)
-
-## Technical Skills
-
-**Languages:** Python, C++, Java, SQL  
-**Machine Learning:** PyTorch, TensorFlow, Hugging Face, scikit-learn  
-**Systems:** CUDA, Tensor Cores, Nsight, Docker, Kubernetes, Linux
-
-## Education
-
-**University of Illinois Urbana-Champaign**  
-M.S. Computer Science, expected May 2027
-
-**VNU University of Engineering and Technology**  
-B.S. Computer Science, High Distinction
+- [fedlearn-backdoor-attacks](https://github.com/mtuann/fedlearn-backdoor-attacks) — PyTorch framework for backdoor attacks and defenses in federated learning
+- [cuda-cnn-convolution-optimization](https://github.com/mtuann/cuda-cnn-convolution-optimization) — fused implicit-GEMM CUDA kernels for CNN layers (UIUC CS 483 course project)
+- [Research Papers Explorer](https://mtuann.github.io/papers/) — search and filter curated paper collections ([code](https://github.com/mtuann/papers))
+- [federated-learning-updated-papers](https://github.com/mtuann/federated-learning-updated-papers) — federated-learning papers from top venues
+- [competitive-programming-101](https://github.com/mtuann/competitive-programming-101) — competitive-programming training in C++
